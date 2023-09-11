@@ -1,0 +1,10 @@
+.container.mode__container{
+    display: flex;
+    justify-content: end;
+    position: fixed;
+    top: 40px;
+    right: 50px;
+}
+.mode__icon{
+    font-size: 50px;
+}
