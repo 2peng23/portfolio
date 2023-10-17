@@ -1,6 +1,6 @@
 import React from "react";
 import "../about/about.css";
-import Me from "../../assets/vane.png";
+import Me from "../../assets/riorio.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faAward,
@@ -29,12 +29,12 @@ const About = () => {
             <article className="about__card">
               <FontAwesomeIcon icon={faUserFriends} className="about__icon" />
               <h5>Clients</h5>
-              <small>100+ Clients Worldwide</small>
+              <small>20+ Clients</small>
             </article>
             <article className="about__card">
               <FontAwesomeIcon icon={faFolder} className="about__icon" />
               <h5>Projects</h5>
-              <small>20+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>

@@ -47,6 +47,27 @@ const Experience = () => {
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
+            <article className="exp__details">
+              <FontAwesomeIcon icon={faCheckCircle} className="exp__icon" />
+              <div>
+                <h4>Tailwind</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="exp__details">
+              <FontAwesomeIcon icon={faCheckCircle} className="exp__icon" />
+              <div>
+                <h4>React Redux</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="exp__details">
+              <FontAwesomeIcon icon={faCheckCircle} className="exp__icon" />
+              <div>
+                <h4>Laravel Livewire</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
         <div className="exp__backend">
@@ -64,6 +85,13 @@ const Experience = () => {
               <div>
                 <h4>Laravel</h4>
                 <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="exp__details">
+              <FontAwesomeIcon icon={faCheckCircle} className="exp__icon" />
+              <div>
+                <h4>NodeJS</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="exp__details">
